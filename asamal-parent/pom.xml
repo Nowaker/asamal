@@ -138,6 +138,7 @@
     <modules>
         <module>asamal-extension-api</module>
         <module>asamal-velocity</module>
+        <module>asamal-thymeleaf</module>
         <module>asamal</module>
         <module>asamal-example</module>
         <module>asamal-integration-tests</module>
